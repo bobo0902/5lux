@@ -30,18 +30,37 @@ a:active, a:focus {color:inherit;text-decoration:none;}
 .top_r2{width: 90px;}
 .top_r2 span{float:right;width:40px;}
 .top_r3{width: 105px;}
-.top_r4_1,.top_r3_1{width: 105px;height: 150px;border: 1px solid gainsboro;}
+.top_r3 a{width:94px ;height: 100%;display: block;position: absolute;}
+.top_r3_img{width: 11px;height: 7px;display: block;position: absolute;right: 0;top:20px;}
+.top_r4_1,.top_r3_1{width: 104px;height: 150px;border: 1px solid gainsboro;z-index: 1;background: #FFF;border-top: none;top:40px;}
 .top_r4_1 ul li,.top_r3_1 ul li{float: left;width: 100%;height: 30px;color: #000;border: none;}
 
 .top_r4{width: 60px;}
+.top_r4 a{width:49px ;height: 100%;display: block;position: absolute;}
+.top_r4_img{width: 11px;height: 7px;display: block;position: absolute;left:49px;top:20px;}
 .top_r5{width: 84px;height: 40px;border: none;}
 .top_r5 a{float: right;width: 63px;}
-.top_r5_1{width: 120px;height: 120px;border: 1px solid gainsboro;top:40px;}
+.top_r5_1{width: 120px;height: 120px;border: 1px solid gainsboro;top:40px;z-index: 1;}
 
 /*--------------mid---------------*/
 #mid{width: 100%;height: 110px;}
 .mid_box{width: 1000px;height: 100%;margin: 0 auto;}
 .mid_box_l{width: 244px;height: 110px;}
 .mid_box_c{width: 142px;height: 80px;left: 290px;top: 14px;}
+.mid_box_r{width: 300px;height: 32px;top:36px;right: 30px;border: 1px solid #000;}
+.mid_box_r input{position:absolute;width:265px;height: 32px;border: none;outline: none;line-height: 32px;box-shadow: 1px 1px 5px #000 inset;}
+.mid_box_r a{float: right;width: 35px;height: 32px;overflow: hidden;}
+/*--------------nav---------------*/
+#nav{width: 100%;height: 60px;background:#232426;border: 3px solid #979797;}
+.nav_box{width:1000px;height:100%;margin: 0 auto;}
+.nav_box_l{width: 146px;height: 100%;}
+.nav_box_l span{float: left;width: 146px;height: 100%;background:#cf0101;color: #FFF;text-align: center;line-height: 60px;font-size: 16px;cursor: pointer;}
+.nav_box_l_1{bottom: 0;right: 0;width: 0px;height: 0px; border-bottom:12px solid #232426;border-left: 12px solid transparent;} 
+.nav_box_r{width: 854px;height: 100%;left: 180px;}
+.nav_box_r ul li{float: left;height: 100%;padding-right:28px ;color: #FFF;text-align: center;line-height: 60px;}
+.nav_box_r ul li span{display: block;position: absolute;top:0;width: 32px;height: 18px;background:#cf0101;color:#FFF ;text-align: center;line-height: 18px;border-radius:3px ;}
+
+
+
 
 

@@ -1,10 +1,21 @@
 $(function(){
-	$(".top_r3,.top_r4,.top_r5").mouseenter(function(){
-		$(this).children(".top_r3_1,.top_r4_1,.top_r5_1").stop().slideDown(150);
+	$(".top_r3,.top_r4").mouseover(function(){
+		$(this).find("img").attr("src","images/jt.png");
+		$(this).css("background","#FFF").addClass("active");
+		$(this).children(".top_r3_1,.top_r4_1").stop().slideDown(200);
 	})
-		
+	$(".top_r3,.top_r4").mouseout(function(){
+		$(this).find("img").attr("src","images/top_07.jpg");
+		$(this).css("background","#1f2021").removeClass("active");
+		$(this).children(".top_r3_1,.top_r4_1").stop().slideUp(200);
+	})
 	
-	$(".top_r3,.top_r4,.top_r5").mouseleave(function(){
-		$(this).children(".top_r3_1,.top_r4_1,.top_r5_1").stop().slideUp(150);
+	$(".top_r5").mouseover(function(){
+		$(this).css("background","#FFF").addClass("active");
+		$(".top_r5_1").stop().slideDown(200);
+	})
+	$(".top_r5").mouseout(function(){
+		$(this).css("background","#1f2021").removeClass("active");
+		$(".top_r5_1").stop().slideUp(200);
 	})
 })
