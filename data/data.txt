@@ -1,0 +1,194 @@
+﻿[{
+	"catname":"推荐品牌 ",
+	"catlist":[{
+		"catname":"国际高端",
+		"catlist":["Chanel","prada","Fendi","Versace","Burberry","Hermes","Dior","Gucci","Mont blanc","Armani","Calvin Klein CK"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"箱包 ",
+	"catlist":[{
+		"catname":"箱包",
+		"catlist":["单肩包","手提包","手提斜挎包","双肩包","手拿包","钱包","小皮件","旅行箱/包","斜挎包","化妆箱/包","功能箱包"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"美妆 ",
+	"catlist":[{
+		"catname":"护肤",
+		"catlist":["眼霜","眼膜","眼精华","卸妆","洁面","爽肤/化妆水","精华","精油","乳液","面霜","粉底液"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"服装 ",
+	"catlist":[{
+		"catname":"上装",
+		"catlist":["衬衫","T恤","针织衫/毛衣","羊毛/羊绒衫","西装","羽绒服","夹克","马甲","棉服","polo衫","雪纺衫"]
+	},{
+		"catname":"裤装",
+		"catlist":["西裤","休闲裤","短裤","打底裤","连体裤"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"推荐品牌 ",
+	"catlist":[{
+		"catname":"国际高端",
+		"catlist":["Chanel","prada","Fendi","Versace","Burberry","Hermes","Dior","Gucci","Mont blanc","Armani","Calvin Klein CK"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"箱包 ",
+	"catlist":[{
+		"catname":"箱包",
+		"catlist":["单肩包","手提包","手提斜挎包","双肩包","手拿包","钱包","小皮件","旅行箱/包","斜挎包","化妆箱/包","功能箱包"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"美妆 ",
+	"catlist":[{
+		"catname":"护肤",
+		"catlist":["眼霜","眼膜","眼精华","卸妆","洁面","爽肤/化妆水","精华","精油","乳液","面霜","粉底液"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"服装 ",
+	"catlist":[{
+		"catname":"上装",
+		"catlist":["衬衫","T恤","针织衫/毛衣","羊毛/羊绒衫","西装","羽绒服","夹克","马甲","棉服","polo衫","雪纺衫"]
+	},{
+		"catname":"裤装",
+		"catlist":["西裤","休闲裤","短裤","打底裤","连体裤"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"推荐品牌 ",
+	"catlist":[{
+		"catname":"国际高端",
+		"catlist":["Chanel","prada","Fendi","Versace","Burberry","Hermes","Dior","Gucci","Mont blanc","Armani","Calvin Klein CK"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"箱包 ",
+	"catlist":[{
+		"catname":"箱包",
+		"catlist":["单肩包","手提包","手提斜挎包","双肩包","手拿包","钱包","小皮件","旅行箱/包","斜挎包","化妆箱/包","功能箱包"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"美妆 ",
+	"catlist":[{
+		"catname":"护肤",
+		"catlist":["眼霜","眼膜","眼精华","卸妆","洁面","爽肤/化妆水","精华","精油","乳液","面霜","粉底液"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"服装 ",
+	"catlist":[{
+		"catname":"上装",
+		"catlist":["衬衫","T恤","针织衫/毛衣","羊毛/羊绒衫","西装","羽绒服","夹克","马甲","棉服","polo衫","雪纺衫"]
+	},{
+		"catname":"裤装",
+		"catlist":["西裤","休闲裤","短裤","打底裤","连体裤"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"推荐品牌 ",
+	"catlist":[{
+		"catname":"国际高端",
+		"catlist":["Chanel","prada","Fendi","Versace","Burberry","Hermes","Dior","Gucci","Mont blanc","Armani","Calvin Klein CK"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"箱包 ",
+	"catlist":[{
+		"catname":"箱包",
+		"catlist":["单肩包","手提包","手提斜挎包","双肩包","手拿包","钱包","小皮件","旅行箱/包","斜挎包","化妆箱/包","功能箱包"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},{
+	"catname":"服装 ",
+	"catlist":[{
+		"catname":"上装",
+		"catlist":["衬衫","T恤","针织衫/毛衣","羊毛/羊绒衫","西装","羽绒服","夹克","马甲","棉服","polo衫","雪纺衫"]
+	},{
+		"catname":"裤装",
+		"catlist":["西裤","休闲裤","短裤","打底裤","连体裤"]
+	},{
+		"catname":"热销品牌",
+		"catlist":["Dior","Gucci","Mont blanc","Armani","Calvin Klein CK","Versace","Burberry"]
+	},{
+		"catname":"最新品牌",
+		"catlist":["Roger Vivier","Troika","Luis onofre","Pull-in","Proenza Schouler","Brosway"]
+	}]
+},
+]

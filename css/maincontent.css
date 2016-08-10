@@ -1,0 +1,76 @@
+#maincontent{
+	height: 520px;
+	background: #000;
+	overflow: hidden;
+	}
+
+.box{
+	height:100%;
+	position: relative;
+	}
+.box1{
+	position: absolute;
+	width:19999px;
+	height:520px;
+	}	
+
+.box1 img{
+	float: left;
+	width:1440px;
+	height:520px;
+	}
+.box span{
+	width: 30px;
+	height: 100px;
+	background: black;
+	position: absolute;
+	cursor: pointer;
+	font-size: 30px;
+	line-height: 100px;
+	text-align:center;
+	color:white;
+	opacity: .3;
+	filter: (opacity=30);top:250px;
+	}
+.r{
+	right: 0;
+	}
+.box2{
+	width:100%;
+	height:30px;
+	bottom:10px;
+	position: absolute;
+	}
+.box2 ul{
+	margin: 0 auto;
+	}
+.box2 li{
+	width: 30px;
+	height: 30px;
+	margin-right:10px;
+	border-radius: 50%;
+	background: red;
+	float: left;
+	font-size: 20px;
+	text-align: center;
+	line-height: 30px;
+	cursor:pointer;}
+.box2 .hover{
+	background:yellow;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
